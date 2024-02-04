@@ -1,0 +1,8 @@
+APP_HOST=0.0.0.0
+APP_PORT=4322
+
+DB_HOST=postgres
+DB_PORT=5432
+DB_NAME=task_manager
+DB_LOGIN=tm_admin
+DB_PASSWORD=admin
